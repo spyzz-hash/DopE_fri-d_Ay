@@ -1,17 +1,17 @@
 # FRIDAY
 
 <p align="center">
-<img src="friday.png" alt="FRIDAY USERBOT">
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/477qba"></iframe></div><p><a href="https://imgflip.com/gif/477qba">via Imgflip</a></p></div>
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 
-Best User Bot To Manage Your Telegram Account 
+Best User Bot To Manage my Telegram Account 
 ## Most PowerFul And Better And Secure
 
-## By Team #SᴛᴀʀᴋGᴀɴɢ™
+## By me #@WHitE_DeVil_l
 
 ### For any query or want to know how it works join Group And Channel 
 
@@ -20,7 +20,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## HOW TO DEPLOY 
 
-I THANK INFOTEL FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY 
+I THANK TO ME FOR VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY 
 
 <a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
